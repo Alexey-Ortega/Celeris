@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Version](https://img.shields.io/badge/version-4.6-blue.svg?cacheSeconds=2592000)
+![Public Snapshot](https://img.shields.io/badge/public-snapshot-blue.svg?cacheSeconds=2592000)
 ![Node](https://img.shields.io/badge/node-%3E%3D16.0.0-brightgreen.svg)
 ![MySQL](https://img.shields.io/badge/mysql-8.0+-blue.svg)
 ![Status](https://img.shields.io/badge/status-Production-success.svg)
@@ -13,6 +13,11 @@
 [Características](#-características-principales) • [Instalación](#-instalación) • [Tecnologías](#️-stack-tecnológico) • [Documentación](#-documentación)
 
 </div>
+
+> [!IMPORTANT]
+> As of March 24, 2026, this `README.md` is a historical public snapshot.
+> The internal operational deployment has continued beyond the older `v4.6` and `v4.7` references shown below.
+> For the updated public-safe overview, see [docs/public-overview.md](docs/public-overview.md).
 
 ---
 
